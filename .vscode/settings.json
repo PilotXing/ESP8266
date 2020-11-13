@@ -16,5 +16,7 @@
             "command": "extension.execute",
             "priority": 4
         }
-    ]
+    ],
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true
 }
